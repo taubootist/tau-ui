@@ -1,7 +1,7 @@
 {
   "name": "@taubootist/tau-ui",
   "productName": "tau-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
