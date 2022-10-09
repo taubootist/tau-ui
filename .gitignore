@@ -66,7 +66,6 @@
 **/obj
 **/appsettings.json
 **/local.settings.json
-**/package-lock.json
 
 **/novant/data-files/exports
 **/.eslintcache
